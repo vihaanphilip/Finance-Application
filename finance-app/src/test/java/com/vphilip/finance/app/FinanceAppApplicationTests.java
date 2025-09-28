@@ -1,4 +1,4 @@
-package com.vphilip.finance_.app;
+package com.vphilip.finance.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

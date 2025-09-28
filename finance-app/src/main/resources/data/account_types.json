@@ -1,0 +1,24 @@
+{
+  "account_types": [
+    {
+      "id": 1,
+      "label": "Savings Account",
+      "description": "A savings account is a deposit account held at a bank or other financial institution that provides a modest interest rate."
+    },
+    {
+      "id": 2,
+      "label": "Checking Account",
+      "description": "A checking account is a deposit account that allows for withdrawals and deposits, typically used for daily transactions."
+    },
+    {
+      "id": 3,
+      "label": "Credit Account",
+      "description": "A credit account allows the account holder to borrow funds up to a certain limit for purchases or cash advances."
+    },
+    {
+      "id": 4,
+      "label": "Investment Account",
+      "description": "An investment account is used to hold securities such as stocks, bonds, and mutual funds, allowing for growth of capital over time."
+    }
+  ]
+}
