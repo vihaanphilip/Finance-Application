@@ -1,6 +1,6 @@
-package com.vphilip.finance.app.account;
+package com.vphilip.finance.app.account.repository;
 
-import org.springframework.jdbc.core.RowMapper;
+import com.vphilip.finance.app.account.model.AccountType;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.Assert;
@@ -8,11 +8,11 @@ import org.springframework.util.Assert;
 import java.util.List;
 
 @Repository
-public class AccountRepository {
+public class JdbcClientAccountTypeRepository_OBSOLETE {
 
     private final JdbcClient jdbcClient;
 
-    public AccountRepository(JdbcClient jdbcTemplate) {
+    public JdbcClientAccountTypeRepository_OBSOLETE(JdbcClient jdbcTemplate) {
         this.jdbcClient = jdbcTemplate;
     }
 

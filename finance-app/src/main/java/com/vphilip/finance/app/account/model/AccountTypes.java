@@ -1,4 +1,4 @@
-package com.vphilip.finance.app.account;
+package com.vphilip.finance.app.account.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
