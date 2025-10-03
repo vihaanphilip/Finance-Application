@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vphilip</groupId>
-	<artifactId>finance-app</artifactId>
+	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>finance-app</name>
 	<description>A Spring Boot application for managing financial operations.</description>
