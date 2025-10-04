@@ -11,6 +11,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/accounttypes")
+@CrossOrigin(origins = "http://localhost:5173")
 public class AccountTypeController {
 
     private final AccountTypeRepository accountTypeRepository;
